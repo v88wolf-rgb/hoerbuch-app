@@ -3,7 +3,7 @@
 Android-App, die Romane (PDF, EPUB, TXT) mit verschiedenen Stimmen vorliest – Erzähler, Männer, Frauen, Roboter, Aliens. Alles offline auf dem Handy.
 
 ## Installieren / Aktualisieren
-Die neueste APK liegt unter **[Releases](../../releases/latest)**.
+Die neueste APK: **[Hoerbuch.apk herunterladen](https://github.com/v88wolf-rgb/hoerbuch-app/raw/main/Hoerbuch.apk)**
 Die App prüft beim Start selbst, ob es eine neue Version gibt, und bietet „Jetzt aktualisieren“ an.
 
 ## Lizenzen

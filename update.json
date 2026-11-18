@@ -1,0 +1,5 @@
+{
+  "version": "0.2",
+  "apk": "https://github.com/v88wolf-rgb/hoerbuch-app/raw/main/Hoerbuch.apk",
+  "notes": "• Pause hält jetzt wirklich an, „Weiter“ macht genau dort weiter\n• Tempo ändern startet den Abschnitt nicht mehr neu\n• 10 Sekunden vor/zurück\n• Automatische Update-Prüfung"
+}
