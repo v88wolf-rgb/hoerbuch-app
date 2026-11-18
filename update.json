@@ -1,5 +1,5 @@
 {
-  "version": "0.3",
+  "version": "0.4",
   "apk": "https://github.com/v88wolf-rgb/hoerbuch-app/raw/main/Hoerbuch.apk",
-  "notes": "• Geschwindigkeit wirkt jetzt wirklich (schneller/langsamer, Stimme bleibt gleich hoch)\n• Pause hält wirklich an, „Weiter“ macht genau dort weiter\n• Tempo ändern startet den Abschnitt nicht neu\n• 10 Sekunden vor/zurück"
+  "notes": "• NEU: 7 bessere Stimmen zum Herunterladen (Startseite → „🎙 Stimmen“): Thorsten HD, Thorsten mit Gefühlen (fröhlich, wütend, flüsternd …), Miro, Dii, Karlsson, Eva\n• „Stimmen neu verteilen“ unter Figuren & Stimmen\n• Geschwindigkeit wirkt jetzt wirklich\n• Echte Pause, 10 s vor/zurück"
 }
